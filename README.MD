@@ -231,7 +231,7 @@ This phase transformed the HMI from a communication test into an operator monito
 
 #### Tank Level & Setpoint
 
-![Tank Level](PPhase%202%20—%20Plant%20Overview%20Screen/Screenshots/phase2_tank_level_and_setpoint_display.png)
+![Tank Level](Phase%202%20—%20Plant%20Overview%20Screen/Screenshots/phase2_tank_level_and_setpoint_display.png)
 
 #### Valve Status & PID Mode
 
@@ -278,55 +278,55 @@ This phase introduced the core operational features commonly found in industrial
 
 ### Setpoint Source Selection
 
-![Setpoint Source Selection](Phase%203%20-%20Tank%20Detail%20Screen/Screenshots/phase3_setpoint_source_selection.png)
+![Setpoint Source Selection](Phase%203%20—%20Tank%20Detail%20Screen/Screenshots/phase3_setpoint_source_selection.png)
 
 ---
 
 ### HMI Setpoint Control
 
-![HMI Setpoint Control](Phase%203%20-%20Tank%20Detail%20Screen/Screenshots/phase3_hmi_setpoint_control.png)
+![HMI Setpoint Control](Phase%203%20—%20Tank%20Detail%20Screen/Screenshots/phase3_hmi_setpoint_control.png)
 
 ---
 
 ### Potentiometer Setpoint Control
 
-![Potentiometer Setpoint Control](Phase%203%20-%20Tank%20Detail%20Screen/Screenshots/phase3_potentiometer_setpoint_control.png)
+![Potentiometer Setpoint Control](Phase%203%20—%20Tank%20Detail%20Screen/Screenshots/phase3_potentiometer_setpoint_control.png)
 
 ---
 
 ### PID Automatic Mode
 
-![PID Automatic Mode](Phase%203%20-%20Tank%20Detail%20Screen/Screenshots/phase3_pid_auto_mode.png)
+![PID Automatic Mode](Phase%203%20—%20Tank%20Detail%20Screen/Screenshots/phase3_pid_auto_mode.png)
 
 ---
 
 ### PID Manual Mode
 
-![PID Manual Mode](Phase%203%20-%20Tank%20Detail%20Screen/Screenshots/phase3_pid_manual_mode.png)
+![PID Manual Mode](Phase%203%20—%20Tank%20Detail%20Screen/Screenshots/phase3_pid_manual_mode.png)
 
 ---
 
 ### Manual Fill Valve Control
 
-![Manual Fill Valve Control](Phase%203%20-%20Tank%20Detail%20Screen/Screenshots/phase3_manual_fill_valve_control.png)
+![Manual Fill Valve Control](Phase%203%20—%20Tank%20Detail%20Screen/Screenshots/phase3_manual_fill_valve_control.png)
 
 ---
 
 ### Disabled Controls Based on Operating Mode
 
-![Disabled Controls](Phase%203%20-%20Tank%20Detail%20Screen/Screenshots/phase3_disabled_controls.png)
+![Disabled Controls](Phase%203%20—%20Tank%20Detail%20Screen/Screenshots/phase3_disabled_controls.png)
 
 ---
 
 ### PLC Selection Logic
 
-![PLC Selection Logic](Phase%203%20-%20Tank%20Detail%20Screen/Screenshots/phase3_ob1_selection_logic.png)
+![PLC Selection Logic](Phase%203%20—%20Tank%20Detail%20Screen/Screenshots/phase3_ob1_selection_logic.png)
 
 ---
 
 ### Factory I/O and HMI Runtime
 
-![Factory I/O Runtime](Phase%203%20-%20Tank%20Detail%20Screen/Screenshots/phase3_factoryio_hmi_runtime.png)
+![Factory I/O Runtime](Phase%203%20—%20Tank%20Detail%20Screen/Screenshots/phase3_factoryio_hmi_runtime.png)
 
 ---
 
@@ -334,7 +334,7 @@ This phase introduced the core operational features commonly found in industrial
 
 🎥 Video:
 
-`Phase 3 - Tank Detail Screen/Videos/demo.mp4`
+`Phase 3 — Tank Detail Screen/Videos/demo.mp4`
 
 ---
 
@@ -361,49 +361,49 @@ This phase focused on providing operators with immediate visual feedback wheneve
 
 ### Alarm Indicator (Normal)
 
-![Alarm Normal](Phase%204%20-%20Alarm%20Management/Screenshots/phase4_alarm_indicator_normal.png)
+![Alarm Normal](Phase%204%20—%20Alarm%20Management/Screenshots/phase4_alarm_indicator_normal.png)
 
 ---
 
 ### Alarm Indicator (Active)
 
-![Alarm Active](Phase%204%20-%20Alarm%20Management/Screenshots/phase4_alarm_indicator_active.png)
+![Alarm Active](Phase%204%20—%20Alarm%20Management/Screenshots/phase4_alarm_indicator_active.png)
 
 ---
 
 ### High Level Alarm
 
-![High Level Alarm](Phase%204%20-%20Alarm%20Management/Screenshots/phase4_high_level_alarm.png)
+![High Level Alarm](Phase%204%20—%20Alarm%20Management/Screenshots/phase4_high_level_alarm.png)
 
 ---
 
 ### Low Level Alarm
 
-![Low Level Alarm](Phase%204%20-%20Alarm%20Management/Screenshots/phase4_low_level_alarm.png)
+![Low Level Alarm](Phase%204%20—%20Alarm%20Management/Screenshots/phase4_low_level_alarm.png)
 
 ---
 
 ### Manual Mode Alarm
 
-![Manual Mode Alarm](Phase%204%20-%20Alarm%20Management/Screenshots/phase4_manual_mode_alarm.png)
+![Manual Mode Alarm](Phase%204%20—%20Alarm%20Management/Screenshots/phase4_manual_mode_alarm.png)
 
 ---
 
 ### Navigation — Overview to Tank Detail
 
-![Overview Navigation](Phase%204%20-%20Alarm%20Management/Screenshots/phase4_navigation_overview_to_tank_detail.png)
+![Overview Navigation](Phase%204%20—%20Alarm%20Management/Screenshots/phase4_navigation_overview_to_tank_detail.png)
 
 ---
 
 ### Navigation — Tank Detail to Overview
 
-![Tank Navigation](Phase%204%20-%20Alarm%20Management/Screenshots/phase4_navigation_tank_detail_to_overview.png)
+![Tank Navigation](Phase%204%20—%20Alarm%20Management/Screenshots/phase4_navigation_tank_detail_to_overview.png)
 
 ---
 
 ### PLC Alarm Logic
 
-![Alarm Logic](Phase%204%20-%20Alarm%20Management/Screenshots/phase4_alarm_logic_ob1.png)
+![Alarm Logic](Phase%204%20—%20Alarm%20Management/Screenshots/phase4_alarm_logic_ob1.png)
 
 ---
 
@@ -438,37 +438,37 @@ This phase completes the HMI by introducing alarm visualization similar to those
 
 ### Alarm Viewer
 
-![Alarm Viewer](Phase%205%20-%20Alarm%20Viewer/Screenshots/phase5_alarm_viewer_screen.png)
+![Alarm Viewer](Phase%205%20—%20Alarm%20Viewer/Screenshots/phase5_alarm_viewer_screen.png)
 
 ---
 
 ### High Level Alarm View
 
-![High Alarm View](Phase%205%20-%20Alarm%20Viewer/Screenshots/phase5_high_level_alarm_view.png)
+![High Alarm View](Phase%205%20—%20Alarm%20Viewer/Screenshots/phase5_high_level_alarm_view.png)
 
 ---
 
 ### Low Level Alarm View
 
-![Low Alarm View](Phase%205%20-%20Alarm%20Viewer/Screenshots/phase5_low_level_alarm_view.png)
+![Low Alarm View](Phase%205%20—%20Alarm%20Viewer/Screenshots/phase5_low_level_alarm_view.png)
 
 ---
 
 ### Manual Mode Alarm View
 
-![Manual Alarm View](Phase%205%20-%20Alarm%20Viewer/Screenshots/phase5_manual_mode_alarm_view.png)
+![Manual Alarm View](Phase%205%20—%20Alarm%20Viewer/Screenshots/phase5_manual_mode_alarm_view.png)
 
 ---
 
 ### Alarm History
 
-![Alarm History](Phase%205%20-%20Alarm%20Viewer/Screenshots/phase5_alarm_history.png)
+![Alarm History](Phase%205%20—%20Alarm%20Viewer/Screenshots/phase5_alarm_history.png)
 
 ---
 
 ### Navigation
 
-![Navigation](Phase%205%20-%20Alarm%20Viewer/Screenshots/phase5_navigation_alarm_viewer.png)
+![Navigation](Phase%205%20—%20Alarm%20Viewer/Screenshots/phase5_navigation_alarm_viewer.png)
 
 ---
 
@@ -476,7 +476,7 @@ This phase completes the HMI by introducing alarm visualization similar to those
 
 🎥 Video:
 
-`Phase 5 - Alarm Viewer/Videos/demo.mp4`
+`Phase 5 — Alarm Viewer/Videos/demo.mp4`
 
 ---
 
