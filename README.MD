@@ -54,7 +54,7 @@
 
 <p align="center">
 
-<img src="Phase 3 - Tank Detail Screen/Screenshots/phase3_factoryio_hmi_runtime.png" width="90%">
+<img src="Phase 3 — Tank Detail Screen/Screenshots/phase3_factoryio_hmi_runtime.png" width="90%">
 
 </p>
 
