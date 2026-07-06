@@ -334,7 +334,7 @@ This phase introduced the core operational features commonly found in industrial
 
 🎥 Video:
 
-`Phase 3 — Tank Detail Screen/Videos/demo.mp4`
+![Phase 3 — Tank Detail Screen/Videos/demo.mp4](Phase%203%20—%20Tank%20Detail%20Screen/Video/demo.mp4
 
 ---
 
@@ -411,7 +411,7 @@ This phase focused on providing operators with immediate visual feedback wheneve
 
 🎥 Video:
 
-`Phase 4 - Alarm Management/Videos/demo.mp4`
+![Phase 4 - Alarm Management/Videos/demo.mp4](Phase%204%20—%20Alarm%20Management/Video/demo.mp4)
 
 ---
 
@@ -476,7 +476,7 @@ This phase completes the HMI by introducing alarm visualization similar to those
 
 🎥 Video:
 
-`Phase 5 — Alarm Viewer/Videos/demo.mp4`
+![Phase 5 — Alarm Viewer/Videos/demo.mp4](Phase%205%20—%20Alarm%20Viewer/Video/demo.mp4)
 
 ---
 
@@ -492,7 +492,7 @@ This final demonstration showcases every feature developed throughout the projec
 
 🎥 Video:
 
-`Phase 6 - Final System Demonstration/Videos/demo.mp4`
+![Phase 6 - Final System Demonstration/Videos/demo.mp4](Phase%206%20—%20Final%20System%20Demonstration/Video/demo.mp4)
 
 ---
 
@@ -516,9 +516,6 @@ By the completion of this project, the following industrial automation concepts 
 - Industrial Documentation
 
 ---
-
-> **Part 2 continues with the complete technical documentation, including the PLC tag list, Global DB HMI tags, control philosophy, PID implementation, alarm logic, and detailed project workflow.**
-
 
 # 🔧 Technical Documentation
 
