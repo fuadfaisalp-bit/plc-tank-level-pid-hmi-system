@@ -438,37 +438,37 @@ This phase completes the HMI by introducing alarm visualization similar to those
 
 ### Alarm Viewer
 
-![Alarm Viewer](Phase%205%20—%20Alarm%20Viewer/Screenshots/phase5_alarm_viewer_screen.png)
+![Alarm Viewer](Phase%205%20—%20Alarm%20Viewer/Screenshot/phase5_alarm_viewer_screen.png)
 
 ---
 
 ### High Level Alarm View
 
-![High Alarm View](Phase%205%20—%20Alarm%20Viewer/Screenshots/phase5_high_level_alarm_view.png)
+![High Alarm View](Phase%205%20—%20Alarm%20Viewer/Screenshot/phase5_high_level_alarm_view.png)
 
 ---
 
 ### Low Level Alarm View
 
-![Low Alarm View](Phase%205%20—%20Alarm%20Viewer/Screenshots/phase5_low_level_alarm_view.png)
+![Low Alarm View](Phase%205%20—%20Alarm%20Viewer/Screenshot/phase5_low_level_alarm_view.png)
 
 ---
 
 ### Manual Mode Alarm View
 
-![Manual Alarm View](Phase%205%20—%20Alarm%20Viewer/Screenshots/phase5_manual_mode_alarm_view.png)
+![Manual Alarm View](Phase%205%20—%20Alarm%20Viewer/Screenshot/phase5_manual_mode_alarm_view.png)
 
 ---
 
 ### Alarm History
 
-![Alarm History](Phase%205%20—%20Alarm%20Viewer/Screenshots/phase5_alarm_history.png)
+![Alarm History](Phase%205%20—%20Alarm%20Viewer/Screenshot/phase5_alarm_history.png)
 
 ---
 
 ### Navigation
 
-![Navigation](Phase%205%20—%20Alarm%20Viewer/Screenshots/phase5_navigation_alarm_viewer.png)
+![Navigation](Phase%205%20—%20Alarm%20Viewer/Screenshot/phase5_navigation_alarm_viewer.png)
 
 ---
 
