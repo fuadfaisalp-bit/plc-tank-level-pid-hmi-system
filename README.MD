@@ -190,15 +190,15 @@ During this phase, the HMI was connected to the PLC, communication was verified,
 
 #### Runtime (OFF)
 
-![Runtime OFF](Phase%201%20-%20PLC-HMI%20Communication/Screenshots/phase1_hmi_runtime_off.png)
+![Runtime OFF](Phase%201%20—%20PLC-HMI%20Communication/Screenshots/phase1_hmi_runtime_off.png)
 
 #### Runtime (ON)
 
-![Runtime ON](Phase%201%20-%20PLC-HMI%20Communication/Screenshots/phase1_hmi_runtime_on.png)
+![Runtime ON](Phase%201%20—%20PLC-HMI%20Communication/Screenshots/phase1_hmi_runtime_on.png)
 
 #### PLC Program
 
-![PLC Program](Phase%201%20-%20PLC-HMI%20Communication/Screenshots/phase1_plc_program.png)
+![PLC Program](Phase%201%20—%20PLC-HMI%20Communication/Screenshots/phase1_plc_program.png)
 
 ---
 
