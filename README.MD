@@ -186,7 +186,7 @@ During this phase, the HMI was connected to the PLC, communication was verified,
 
 #### PLC-HMI Connection
 
-![PLC-HMI Connection](Phase%201%20-%20PLC-HMI%20Communication/Screenshots/phase1_hmi_plc_connection.png)
+![PLC-HMI Connection](Phase%201%20—%20PLC-HMI%20Communication/Screenshots/phase1_hmi_plc_connection.png)
 
 #### Runtime (OFF)
 
