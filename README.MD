@@ -223,25 +223,25 @@ This phase transformed the HMI from a communication test into an operator monito
 
 #### Plant Overview
 
-![Plant Overview](Phase%202%20-%20Plant%20Overview%20Screen/Screenshots/phase2_plant_overview_screen.png)
+![Plant Overview](Phase%202%20—%20Plant%20Overview%20Screen/Screenshots/phase2_plant_overview_screen.png)
 
 #### Live Process Monitoring
 
-![Live Monitoring](Phase%202%20-%20Plant%20Overview%20Screen/Screenshots/phase2_live_process_monitoring.png)
+![Live Monitoring](Phase%202%20—%20Plant%20Overview%20Screen/Screenshots/phase2_live_process_monitoring.png)
 
 #### Tank Level & Setpoint
 
-![Tank Level](Phase%202%20-%20Plant%20Overview%20Screen/Screenshots/phase2_tank_level_and_setpoint_display.png)
+![Tank Level](PPhase%202%20—%20Plant%20Overview%20Screen/Screenshots/phase2_tank_level_and_setpoint_display.png)
 
 #### Valve Status & PID Mode
 
-![Valve Status](Phase%202%20-%20Plant%20Overview%20Screen/Screenshots/phase2_valve_status_and_pid_mode.png)
+![Valve Status](Phase%202%20—%20Plant%20Overview%20Screen/Screenshots/phase2_valve_status_and_pid_mode.png)
 
 ### Demonstration
 
 🎥 Video:
 
-`Phase 2 - Plant Overview Screen/Videos/demo.mp4`
+`Phase 2 — Plant Overview Screen/Videos/demo.mp4`
 
 ---
 
@@ -272,7 +272,7 @@ This phase introduced the core operational features commonly found in industrial
 
 ### Tank Detail Screen
 
-![Tank Detail Screen](Phase%203%20-%20Tank%20Detail%20Screen/Screenshots/phase3_tank_detail_screen.png)
+![Tank Detail Screen](Phase%203%20—%20Tank%20Detail%20Screen/Screenshots/phase3_tank_detail_screen.png)
 
 ---
 
