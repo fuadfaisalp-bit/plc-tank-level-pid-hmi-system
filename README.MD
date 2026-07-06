@@ -241,7 +241,7 @@ This phase transformed the HMI from a communication test into an operator monito
 
 🎥 Video:
 
-`Phase 2 — Plant Overview Screen/Videos/demo.mp4`
+![Phase 2 — Plant Overview Screen/Videos/demo.mp4](Phase%202%20—%20Plant%20Overview%20Screen/Video/demo.mp4)
 
 ---
 
